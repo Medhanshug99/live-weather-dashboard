@@ -1,5 +1,5 @@
-const API_KEY = "6f5199b5f6714d9c4f62f7de0e415a42";
-// const API_KEY = "YOUR_API_KEY_HERE";
+// const API_KEY = " ";
+const API_KEY = "YOUR_API_KEY_HERE";
 const searchBtn = document.getElementById("searchBtn");
 const statusText = document.getElementById("status");
 
@@ -67,3 +67,4 @@ function formatTime(unixTime) {
     minute: "2-digit"
   });
 }
+
