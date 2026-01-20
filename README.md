@@ -2,7 +2,7 @@
 *A Real-Time Weather Web Application*
 
 ## Live Preview : 
-(https://live-weather-dashboard-9.vercel.app/)
+(https://live-weather-dashboard-01.vercel.app/)
 
 ##  Overview
 The **Live Weather Dashboard** is a responsive web application that provides real-time weather information for any city worldwide. Users can search by city name and instantly view current temperature, weather conditions, humidity, wind speed, and sunrise & sunset timings.
